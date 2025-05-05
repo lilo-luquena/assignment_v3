@@ -1,0 +1,41 @@
+ num_list = [10, 20, 30]
+    print(f"Original List: {num_list}")
+
+    # add 10 
+    added_ten = [value + 10 for value in num_list]
+     
+
+    # subtract 5  
+    subtracted_five = [value - 5 for value in num_list]
+     
+
+    # Interact with Program 2
+    combined_string = " ".join(["Hello", "World"])  # Combining strings
+     
+    
+    string_lengths = [len(string) for string in ["Student1", "Student2"]]  # String lengths
+   
+
+
+
+
+    # list of strings
+    str_list = ["Student1", "Student2"]
+    combined = " ".join(str_list)  # Combine all strings
+   
+
+    # calculate lengths 
+    string_lengths = [len(string) for string in str_list]
+    
+
+    # interact with Program 1
+    num_list = [5, 15, 25]
+     
+
+    # add 10  
+    added_ten = [value + 10 for value in num_list]
+     
+
+    # subtract 5  
+    subtracted_five = [value - 5 for value in num_list]
+     
